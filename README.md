@@ -1,2 +1,2 @@
 # Flying-bird-game
-Android Game
+Android Game to study the basics of android like activities, fragments, intents,
